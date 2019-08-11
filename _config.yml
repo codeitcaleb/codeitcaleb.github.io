@@ -1,11 +1,11 @@
 # Site settings
 author: Caleb Kavanaugh
-title: 
+title: Creating Code-it Caleb!
 header-img: img/home-bg.png
 email: calebck@hotmail.com
 copyright_name: Caleb Kavanaugh
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Story of How I Became A Software Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: CodeItCaleb
 github_username:  codeitcaleb
