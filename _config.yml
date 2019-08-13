@@ -1,33 +1,20 @@
----
-title: Creating Code-it Caleb!
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+# Site settings
 author: Caleb Kavanaugh
+title: Creating Code-it Caleb!
 header-img: img/home-bg.png
 email: calebck@hotmail.com
 copyright_name: Caleb Kavanaugh
-description: 'The Story of How I Became A Software Engineer.
-
-'
-baseurl: ''
+description: > # this means to ignore newlines until "baseurl:"
+  The Story of How I Became A Software Engineer.
+baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: CodeItCaleb
-github_username: codeitcaleb
+github_username:  codeitcaleb
+
+# Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude:
-- less
-- node_modules
-- Gruntfile.js
-- package.json
-- README.md
-gems:
-- jekyll-paginate
-- jekyll-feed
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
