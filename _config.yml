@@ -1,0 +1,33 @@
+---
+title: Creating Code-it Caleb!
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+author: Caleb Kavanaugh
+header-img: img/home-bg.png
+email: calebck@hotmail.com
+copyright_name: Caleb Kavanaugh
+description: 'The Story of How I Became A Software Engineer.
+
+'
+baseurl: 
+twitter_username: CodeItCaleb
+github_username: codeitcaleb
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude:
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
+gems:
+- jekyll-paginate
+- jekyll-feed
