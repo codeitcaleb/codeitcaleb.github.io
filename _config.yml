@@ -15,7 +15,7 @@ copyright_name: Caleb Kavanaugh
 description: 'The Story of How I Became A Software Engineer.
 
 '
-baseurl: ''
+baseurl: 
 twitter_username: CodeItCaleb
 github_username: codeitcaleb
 markdown: kramdown
