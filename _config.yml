@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 author: Caleb Kavanaugh
-header-img: img/home-bg.png
+header-img: img/Anime Coding.jpg
 email: calebck@hotmail.com
 copyright_name: Caleb Kavanaugh
 description: 'The Story of How I Became A Software Engineer.
@@ -19,6 +19,7 @@ baseurl:
 twitter_username: CodeItCaleb
 github_username: codeitcaleb
 markdown: kramdown
+remote_theme: codeitcaleb/creative-portfolio
 highlighter: rouge
 permalink: pretty
 paginate: 5
