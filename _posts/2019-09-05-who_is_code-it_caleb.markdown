@@ -1,10 +1,7 @@
 ---
-layout: post
-title:      "Who is  "CODE-IT CALEB"?"
-date:       2019-09-05 01:09:00 +0000
-permalink:  who_is_code-it_caleb
+title: 2019 09 04 Who Is Code It Caleb
+date: 2019-09-05 01:09:03.285000000 Z
 ---
-
 
 Hi, my name is Caleb and I am from Atlanta, GA! I am an aspiring full stack web & mobile app developer who originally started out self-taught but I am now a student at a coding bootcamp called Flatiron School. I was first introduced to coding back in 2017 after watching a YouTube video by Chris Sean. He talked about his transition into his career as a web developer in 3 months. I indentified with his story and was intrigued.
 
