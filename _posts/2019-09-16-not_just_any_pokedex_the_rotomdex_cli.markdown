@@ -1,8 +1,8 @@
 ---
+title: 'Not just any Pokedex: The Rotomdex CLI'
+date: 2019-09-16 03:50:45 Z
+permalink: not_just_any_pokedex_the_rotomdex_cli
 layout: post
-title:      "Not just any Pokedex: The Rotomdex CLI"
-date:       2019-09-16 03:50:45 +0000
-permalink:  not_just_any_pokedex_the_rotomdex_cli
 ---
 
 I know what you're thinking... Another, Pokedex CLI but this was such a fun yet frustrating project and I feel like this was the best choice for me. I learned so much and was challenged and pushed to my limit and I was so close to giving up but I broke through my limits.
