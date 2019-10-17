@@ -1,10 +1,9 @@
 ---
+title: MyAniCal- The Sinatra Project
+date: 2019-10-17 04:30:10 Z
+permalink: myanical-_the_sinatra_project
 layout: post
-title:      "MyAniCal- The Sinatra Project"
-date:       2019-10-17 00:30:10 -0400
-permalink:  myanical-_the_sinatra_project
 ---
-
 
 Coming into the Sinatra Project I didn't entirely know where to to start. When I first started out on my journey to learn software engineering at Flatiron School, I a had already had ideas for each of the projects that I wanted to build throughout the program. Of course me being the geek I am, decided to create something practical and useful for me, enter MyAniCal.
 
