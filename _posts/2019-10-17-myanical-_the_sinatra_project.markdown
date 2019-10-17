@@ -1,11 +1,12 @@
 ---
-title: MyAniCal- The Sinatra Project
-date: 2019-10-17 04:30:09 Z
-permalink: myanical-_the_sinatra_project
 layout: post
+title:      "MyAniCal- The Sinatra Project"
+date:       2019-10-17 00:30:10 -0400
+permalink:  myanical-_the_sinatra_project
 ---
 
-Coming into the Sinatra Project I didn't entirely know where to to start. When I first started out on my journey to learn software engineering at Flatiron School, I a had already had ideas for each of the projects that I wanted to build throughout the program. Of course me being the geek I am, decided to create something practical and useful for me, enter MyAnimeCal.
+
+Coming into the Sinatra Project I didn't entirely know where to to start. When I first started out on my journey to learn software engineering at Flatiron School, I a had already had ideas for each of the projects that I wanted to build throughout the program. Of course me being the geek I am, decided to create something practical and useful for me, enter MyAniCal.
 
 I've always been a really huge anime fan and the inspiration for more MyAniCal really came from a place of wanting to be able to organize and keep track of the different shows that I would watch on a weekly basis. I wanted to be able to enjoy the anime that I enjoyed but at the same time keep myself and on schedule. Part of that came from me being enrolled in Flatiron School full-time. We all need our breaks from time to time and one of my favorite ways to pass the time is to watch some of my favorite shows. 
 
