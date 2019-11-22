@@ -1,10 +1,9 @@
 ---
+title: 'The Project That ALMOST Broke Me: The Gallery(Rails & Active Storage) '
+date: 2019-11-22 05:47:10 Z
+permalink: the_project_that_almost_broke_me_the_gallery_rails_and_active_storage
 layout: post
-title:      "The Project That ALMOST Broke Me: The Gallery(Rails & Active Storage) "
-date:       2019-11-22 05:47:10 +0000
-permalink:  the_project_that_almost_broke_me_the_gallery_rails_and_active_storage
 ---
-
 
 This blog post has been a long time coming for me and to say that this project was a struggle would be an understatement. I've always been an overachiever for dreams and ambitions that would make the most successful of entrepeneurs envious. I came into Flatiron School with all of my project ideas planned out. I was excited and laser-focused and when I set out to do something I get tunnel-visioned and the only thing on my mind is getting things the way I want want them to be. 
 
