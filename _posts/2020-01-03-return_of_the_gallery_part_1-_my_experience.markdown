@@ -1,10 +1,9 @@
 ---
+title: 'Return of the Gallery: Part 1- My Experience'
+date: 2020-01-03 21:49:00 Z
+permalink: return_of_the_gallery_part_1-_my_experience
 layout: post
-title:      "Return of the Gallery: Part 1- My Experience"
-date:       2020-01-03 21:49:00 +0000
-permalink:  return_of_the_gallery_part_1-_my_experience
 ---
-
 
 *TL;DR: This will be elaborated on further in a mini-series of posts that go into more detail on how to work with Ruby on Rails as an API so stay tuned. *
 
