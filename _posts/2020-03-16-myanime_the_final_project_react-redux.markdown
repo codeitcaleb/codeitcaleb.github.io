@@ -1,10 +1,9 @@
 ---
+title: 'MyAnime: The Final Project (React-Redux)'
+date: 2020-03-16 20:17:02 Z
+permalink: myanime_the_final_project_react-redux
 layout: post
-title:      "MyAnime: The Final Project (React-Redux)"
-date:       2020-03-16 16:17:02 -0400
-permalink:  myanime_the_final_project_react-redux
 ---
-
 
 I had so many ideas going into my Final Project at Flatiron School. After pushing the boundaries of my previous projects and implementing libraries and technologies, I expected this one to be the "magnum opus" of my projects. My idea was to incorporate pieces/features of my previous projects into my final project. Well... It didn't quite work out that way. 
 After looking back on my plans and what I could do I decided to play it safe and build a version of one of the projects I had done previously. Enter MyAnime.
