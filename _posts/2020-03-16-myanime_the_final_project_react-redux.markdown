@@ -1,9 +1,10 @@
 ---
-title: 'MyAnime: The Final Project (React-Redux)'
-date: 2020-03-16 20:17:02 Z
-permalink: myanime_the_final_project_react-redux
 layout: post
+title:      "MyAnime: The Final Project (React-Redux)"
+date:       2020-03-16 16:17:02 -0400
+permalink:  myanime_the_final_project_react-redux
 ---
+
 
 I had so many ideas going into my Final Project at Flatiron School. After pushing the boundaries of my previous projects and implementing libraries and technologies, I expected this one to be the "magnum opus" of my projects. My idea was to incorporate pieces/features of my previous projects into my final project. Well... It didn't quite work out that way. 
 After looking back on my plans and what I could do I decided to play it safe and build a version of one of the projects I had done previously. Enter MyAnime.
@@ -45,9 +46,7 @@ const Root = ({ store }) => (
 
 An issue that I did have to overcome also came from my use of React Router. I found that since my routes were responsible for specific components themselves, I needed to figure out how to pass props to the routes that needed them. This proved difficult at first until I found that i could use the browser history provided in React Router to help me redirect to these routes and pass props through the Links that pointed to them. Once a route matched that path it would render the component attached to it.
 
-```
-<Link to={{ pathname: `/anime/${anime.mal_id}`, state: { anime }` }}` > {anime.title} </Link>
-```
+``` <Link to={{ pathname: `/anime/${anime.mal_id}`, state: { anime }` }}` > {anime.title} </Link> ```
 
 ### Redux
 After going through the this module I've found that I've really enjoyed working with React but once I got to the Redux section I was thrown off. I understood that it allowed a developer to better manage state and provided a single source of truth. Rather than having to pass props from component to component, Redux would allow you to connect to the Redux "store" where the global state is held and select the data from from state that you would need for each specific component.
