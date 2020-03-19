@@ -1,10 +1,9 @@
 ---
+title: What's Next?
+date: 2020-03-19 22:08:52 Z
+permalink: whats_next
 layout: post
-title:      "What's Next?"
-date:       2020-03-19 22:08:52 +0000
-permalink:  whats_next
 ---
-
 
 I write this after just passing my Final Project Assessment and I honestly don't know how to feel right. This has been a long journey but I wouldn't have had it any other way. I've learned so much during my time here and have truly fallen in love with coding. As I look to begin my job search and finally get into my career as software engineer a few thngs stand out in particular as to what I want to do as a developer. So what's next for "CODE-IT CALEB"?
 
